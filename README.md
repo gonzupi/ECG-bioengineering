@@ -1,4 +1,4 @@
-El programa ProgramaFinal.c funciona en 3 pasos:
+El programa ECG-PL.cpp funciona en 3 pasos:
   1 - Copia los datos del fichero a dos LISTAS
   2 - Hace la FFT de esas listas, junto con algunos pasos para facilitar el cálculo
   3 - Coge el máximo de la FFT de cada ventana y calcula su media.
